@@ -1,9 +1,9 @@
-// Define a rooster
+// Define a rooster 
 Rooster = {};
 
 // Return a morning rooster call //
 Rooster.announceDawn = () => {
-  return 'moo!';
+  return 'cock-a-doodle-doo!';
 }
 
 // Return hour as string
